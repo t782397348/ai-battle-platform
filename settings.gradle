@@ -1,0 +1,2 @@
+rootProject.name = 'AIBattlePlatform'
+include ':app'
